@@ -1,0 +1,7 @@
+float64 position_x
+float64 position_y
+float64 destination_x
+float64 destination_y
+int state
+---
+string msg_feedback
